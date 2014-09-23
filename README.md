@@ -4,7 +4,7 @@
 
 Could be installed on FirefoxOS/Firefox Mobile. If you are playing with a Desktop computer, check if you've got an ambient light sensor. Macbook usally have it built in. It's located near the isight camera.
 
-Works in Firefox only.
+Works in Firefox only. [Play it here](http://casarock.github.io/ambilander/index.html)
 
 [![Ambi Lander Video](http://img.youtube.com/vi/kqvBvIV8mCE/0.jpg)](http://www.youtube.com/watch?v=kqvBvIV8mCE)
 
